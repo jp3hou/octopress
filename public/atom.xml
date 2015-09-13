@@ -4,7 +4,7 @@
   <title><![CDATA[jpchou]]></title>
   <link href="http://jpchou.com/atom.xml" rel="self"/>
   <link href="http://jpchou.com/"/>
-  <updated>2015-09-12T23:32:58-07:00</updated>
+  <updated>2015-09-13T00:17:18-07:00</updated>
   <id>http://jpchou.com/</id>
   <author>
     <name><![CDATA[jpchou]]></name>
@@ -12,5 +12,128 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rot13 in Ruby]]></title>
+    <link href="http://jpchou.com/blog/2015/09/12/rot13-in-ruby/"/>
+    <updated>2015-09-12T23:38:03-07:00</updated>
+    <id>http://jpchou.com/blog/2015/09/12/rot13-in-ruby</id>
+    <content type="html"><![CDATA[<p>Just for fun, I decided to try my hand at implementing a Rot13 program, which is a simple problem which takes
+a string as its input and encodes it by forwarding each letter 13 characters forward or backward.
+For example, since there are 26 letters in the alphabet, we can assign indices to each letter starting at <code>0</code> for <code>'a'</code>
+and ending at <code>25</code> for <code>'z'</code>. The Rot13 program would switch (or rotate) the character <code>'a'</code> with <code>'n'</code> since it has the index <code>13</code>.</p>
+
+<p>Giving this program the string input <code>'apple'</code> would (hopefully) return <code>'nccyr'</code>.</p>
+
+<p>To that end, the following is the first pass I made at implementing the program:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>class Translator
+</span><span class='line'>  ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
+</span><span class='line'>
+</span><span class='line'>  def translate(string)
+</span><span class='line'>    result = ''
+</span><span class='line'>    string.split(//).each do |char|
+</span><span class='line'>      if char == ' ' #preserve spaces if string has multiple words
+</span><span class='line'>        result &lt;&lt; char
+</span><span class='line'>        next
+</span><span class='line'>      end
+</span><span class='line'>      result &lt;&lt; translate_char(char)
+</span><span class='line'>    end
+</span><span class='line'>    result
+</span><span class='line'>  end
+</span><span class='line'>
+</span><span class='line'>  private
+</span><span class='line'>
+</span><span class='line'>  def translate_char(char)
+</span><span class='line'>    lowercase = char.downcase
+</span><span class='line'>    is_uppercase = char != lowercase
+</span><span class='line'>    index = ALPHABET.index lowercase
+</span><span class='line'>    translated_index = index - 13
+</span><span class='line'>    if translated_index &lt; 0
+</span><span class='line'>      translated_index += 26
+</span><span class='line'>    end
+</span><span class='line'>
+</span><span class='line'>    #preserve case in original string
+</span><span class='line'>    if is_uppercase
+</span><span class='line'>      ALPHABET[translated_index].upcase
+</span><span class='line'>    else
+</span><span class='line'>      ALPHABET[translated_index]
+</span><span class='line'>    end
+</span><span class='line'>  end
+</span><span class='line'>end
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>In this solution, I created a class <code>Translator</code> that defines constant <code>ALPHABET</code> string representing the alphabet and
+an instance method <code>#translate</code> that takes in a string, splits it into an array of its characters, translates each character
+using a private method <code>#translate_char</code>, and then returns a string composed of those translated characters.</p>
+
+<p>The private <code>#translate_char</code> method checks the capitalization of the character and checks the index of the character against
+the <code>ALPHABET</code> constant, and then rotates that character by calculating what 13 subtracted from that index is and returning
+the appropriate character in <code>ALPHABET</code> at that given index.</p>
+
+<p>All in all, this got the job done.</p>
+
+<p>However, I later discovered Ruby&rsquo;s <code>String#tr</code> method, which allows you to replace characters in a string. It is similar to
+the <code>#gsub</code> method, but while <code>#gsub</code> can match complex patterns with complex results, <code>#tr</code> can only replace fixed characters.</p>
+
+<p>In any case, you can call <code>'hello'.tr('el', 'ip')</code> to get the result <code>hippo</code> since it will replace every <code>'e'</code> with <code>'i'</code>
+and every <code>'l'</code> with <code>'p'</code>.</p>
+
+<p>So it turns out that the above implementation can be greatly simplified by the following:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>class Translator
+</span><span class='line'>  def translate(string)
+</span><span class='line'>    string.tr('a-zA-Z', 'n-za-mN-ZA-M')
+</span><span class='line'>  end
+</span><span class='line'>end</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Spaces and punctuation are preserved since it only checks the string for those characters and replaces
+them accordingly, ignoring all else. I also realized at this point that my original solution would not have accounted for punctuation
+or special characters and would have stripped them out in the result.</p>
+
+<p>Pretty cool.</p>
+]]></content>
+  </entry>
   
 </feed>
