@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[jpchou]]></title>
+  <link href="http://jpchou.com/atom.xml" rel="self"/>
+  <link href="http://jpchou.com/"/>
+  <updated>2015-09-12T22:04:51-07:00</updated>
+  <id>http://jpchou.com/</id>
+  <author>
+    <name><![CDATA[jpchou]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
