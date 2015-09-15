@@ -7,6 +7,7 @@ footer: false
 sharing: false
 ---
 
+{% img /images/womplygroup.jpg Giants! %}
 <p>
   I am a graduate from the University of North Carolina at Chapel Hill with a B.S. in Computer Science.
   Naturally, UNC basketball is both near and dear to my heart. Ask me anything about it! I might be able to answer.
