@@ -7,7 +7,7 @@ categories:
 ---
 
 Just for fun, I decided to try my hand at implementing a Rot13 program, which is a simple problem which takes 
-a string as its input and encodes it by forwarding each letter 13 characters forward or backward. 
+a string as its input and encodes it by moving each letter 13 characters forward or backward. 
 For example, since there are 26 letters in the alphabet, we can assign indices to each letter starting at `0` for `'a'` 
 and ending at `25` for `'z'`. The Rot13 program would switch (or rotate) the character `'a'` with `'n'` since it has the index `13`. 
 
@@ -57,9 +57,8 @@ In this solution, I created a class `Translator` that defines constant `ALPHABET
 an instance method `#translate` that takes in a string, splits it into an array of its characters, translates each character 
 using a private method `#translate_char`, and then returns a string composed of those translated characters.
 
-The private `#translate_char` method checks the capitalization of the character and checks the index of the character against
-the `ALPHABET` constant, and then rotates that character by calculating what 13 subtracted from that index is and returning
-the appropriate character in `ALPHABET` at that given index.
+The private `#translate_char` method checks the capitalization of the character, checks the index of the character against
+the `ALPHABET` constant, and then rotates that character by returning the appropriate character in `ALPHABET` at that given index minus 13.
 
 All in all, this got the job done. 
 
@@ -69,7 +68,7 @@ the `#gsub` method, but while `#gsub` can match complex patterns with complex re
 In any case, you can call `'hello'.tr('el', 'ip')` to get the result `hippo` since it will replace every `'e'` with `'i'` 
 and every `'l'` with `'p'`.
 
-So it turns out that the above implementation can be greatly simplified by the following: 
+It turns out that the above implementation can be greatly simplified by the following: 
 
 ```
 class Translator
@@ -82,5 +81,8 @@ end
 Spaces and punctuation are preserved since it only checks the string for those characters and replaces
 them accordingly, ignoring all else. I also realized at this point that my original solution would not have accounted for punctuation
 or special characters and would have stripped them out in the result. 
+
+Using the `String#tr` method, I was able to simplify my ~30 line class down to 5 lines in a more idiomatic (and more effective!)
+Ruby solution.
 
 Pretty cool. 

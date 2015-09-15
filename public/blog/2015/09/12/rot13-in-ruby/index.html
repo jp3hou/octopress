@@ -126,7 +126,7 @@ a string as its input and encodes it by &hellip;">
 
 
 <div class="entry-content"><p>Just for fun, I decided to try my hand at implementing a Rot13 program, which is a simple problem which takes
-a string as its input and encodes it by forwarding each letter 13 characters forward or backward.
+a string as its input and encodes it by moving each letter 13 characters forward or backward.
 For example, since there are 26 letters in the alphabet, we can assign indices to each letter starting at <code>0</code> for <code>'a'</code>
 and ending at <code>25</code> for <code>'z'</code>. The Rot13 program would switch (or rotate) the character <code>'a'</code> with <code>'n'</code> since it has the index <code>13</code>.</p>
 
@@ -209,9 +209,8 @@ and ending at <code>25</code> for <code>'z'</code>. The Rot13 program would swit
 an instance method <code>#translate</code> that takes in a string, splits it into an array of its characters, translates each character
 using a private method <code>#translate_char</code>, and then returns a string composed of those translated characters.</p>
 
-<p>The private <code>#translate_char</code> method checks the capitalization of the character and checks the index of the character against
-the <code>ALPHABET</code> constant, and then rotates that character by calculating what 13 subtracted from that index is and returning
-the appropriate character in <code>ALPHABET</code> at that given index.</p>
+<p>The private <code>#translate_char</code> method checks the capitalization of the character, checks the index of the character against
+the <code>ALPHABET</code> constant, and then rotates that character by returning the appropriate character in <code>ALPHABET</code> at that given index minus 13.</p>
 
 <p>All in all, this got the job done.</p>
 
@@ -221,7 +220,7 @@ the <code>#gsub</code> method, but while <code>#gsub</code> can match complex pa
 <p>In any case, you can call <code>'hello'.tr('el', 'ip')</code> to get the result <code>hippo</code> since it will replace every <code>'e'</code> with <code>'i'</code>
 and every <code>'l'</code> with <code>'p'</code>.</p>
 
-<p>So it turns out that the above implementation can be greatly simplified by the following:</p>
+<p>It turns out that the above implementation can be greatly simplified by the following:</p>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -238,6 +237,9 @@ and every <code>'l'</code> with <code>'p'</code>.</p>
 <p>Spaces and punctuation are preserved since it only checks the string for those characters and replaces
 them accordingly, ignoring all else. I also realized at this point that my original solution would not have accounted for punctuation
 or special characters and would have stripped them out in the result.</p>
+
+<p>Using the <code>String#tr</code> method, I was able to simplify my ~30 line class down to 5 lines in a more idiomatic (and more effective!)
+Ruby solution.</p>
 
 <p>Pretty cool.</p>
 </div>
