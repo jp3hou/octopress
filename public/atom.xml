@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[jpchou]]></title>
+  <title><![CDATA[Julia Chou]]></title>
   <link href="http://jpchou.com/atom.xml" rel="self"/>
   <link href="http://jpchou.com/"/>
-  <updated>2018-06-23T22:26:30-07:00</updated>
+  <updated>2018-06-23T23:17:11-07:00</updated>
   <id>http://jpchou.com/</id>
   <author>
-    <name><![CDATA[jpchou]]></name>
+    <name><![CDATA[Julia Chou]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
