@@ -4,6 +4,8 @@ title: "Sidekiq-ifying Emails at Reflektive"
 date: 2018-06-24 11:01:11 -0700
 comments: true
 categories: [Reflektive, Engineering Practices]
+keywords: "jpchou, Julia Chou, Sidekiq, Ruby, Ruby on Rails, Rails, Sidekiq, Newrelic"
+description: "Optimizing email delivery and monitoring with Sidekiq and Newrelic"
 ---
 
 At Reflektive, we offer the option of sending reminder emails after kicking off performance review cycles in order to notify participants of that cycle that they should fill out their reviews. We used <a href='https://github.com/collectiveidea/delayed_job' target='blank'>Delayed::Job</a>, an asynchronous priority queue system pioneered by the Shopify engineering team, to handle the delivery of those emails.

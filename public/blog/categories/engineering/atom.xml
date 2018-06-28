@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Engineering | Julia Chou]]></title>
+  <link href="http://jpchou.com/blog/categories/engineering/atom.xml" rel="self"/>
+  <link href="http://jpchou.com/"/>
+  <updated>2018-06-28T15:57:33-07:00</updated>
+  <id>http://jpchou.com/</id>
+  <author>
+    <name><![CDATA[Julia Chou]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rot13 in Ruby]]></title>
+    <link href="http://jpchou.com/blog/2015/09/12/rot13-in-ruby/"/>
+    <updated>2015-09-12T23:38:03-07:00</updated>
+    <id>http://jpchou.com/blog/2015/09/12/rot13-in-ruby</id>
+    <content type="html"><![CDATA[<p>Just for fun, I decided to try my hand at implementing a Rot13 program, which is a simple problem which takes
+a string as its input and encodes it by moving each letter 13 characters forward or backward.
+For example, since there are 26 letters in the alphabet, we can assign indices to each letter starting at <code>0</code> for <code>'a'</code>
+and ending at <code>25</code> for <code>'z'</code>. The Rot13 program would switch (or rotate) the character <code>'a'</code> with <code>'n'</code> since it has the index <code>13</code>.</p>
+
+<p>Giving this program the string input <code>'apple'</code> would (hopefully) return <code>'nccyr'</code>.</p>
+
+<p>To that end, the following is the first pass I made at implementing the program:</p>
+
+<pre><code>class Translator
+  ALPHABET = 'abcdefghijklmnopqrstuvwxyz'
+
+  def translate(string)
+    result = ''
+    string.split(//).each do |char|
+      if char == ' ' #preserve spaces if string has multiple words
+        result &lt;&lt; char
+        next
+      end
+      result &lt;&lt; translate_char(char)
+    end
+    result
+  end
+
+  private
+
+  def translate_char(char)
+    lowercase = char.downcase
+    is_uppercase = char != lowercase
+    index = ALPHABET.index lowercase
+    translated_index = index - 13
+    if translated_index &lt; 0
+      translated_index += 26
+    end
+
+    #preserve case in original string
+    if is_uppercase
+      ALPHABET[translated_index].upcase
+    else
+      ALPHABET[translated_index]
+    end
+  end
+end
+</code></pre>
+
+<p>In this solution, I created a class <code>Translator</code> that defines constant <code>ALPHABET</code> string representing the alphabet and
+an instance method <code>#translate</code> that takes in a string, splits it into an array of its characters, translates each character
+using a private method <code>#translate_char</code>, and then returns a string composed of those translated characters.</p>
+
+<p>The private <code>#translate_char</code> method checks the capitalization of the character, checks the index of the character against
+the <code>ALPHABET</code> constant, and then rotates that character by returning the appropriate character in <code>ALPHABET</code> at that given index minus 13.</p>
+
+<p>All in all, this got the job done.</p>
+
+<p>However, I later discovered Ruby&rsquo;s <code>String#tr</code> method, which allows you to replace characters in a string. It is similar to
+the <code>#gsub</code> method, but while <code>#gsub</code> can match complex patterns with complex results, <code>#tr</code> can only replace fixed characters.</p>
+
+<p>In any case, you can call <code>'hello'.tr('el', 'ip')</code> to get the result <code>hippo</code> since it will replace every <code>'e'</code> with <code>'i'</code>
+and every <code>'l'</code> with <code>'p'</code>.</p>
+
+<p>It turns out that the above implementation can be greatly simplified by the following:</p>
+
+<pre><code>class Translator
+  def translate(string)
+    string.tr('a-zA-Z', 'n-za-mN-ZA-M')
+  end
+end
+</code></pre>
+
+<p>Spaces and punctuation are preserved since it only checks the string for those characters and replaces
+them accordingly, ignoring all else. I also realized at this point that my original solution would not have accounted for punctuation
+or special characters and would have stripped them out in the result.</p>
+
+<p>Using the <code>String#tr</code> method, I was able to simplify my ~30 line class down to 5 lines in a more idiomatic (and more effective!)
+Ruby solution.</p>
+
+<p>Pretty cool.</p>
+]]></content>
+  </entry>
+  
+</feed>
