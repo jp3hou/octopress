@@ -14,15 +14,15 @@ sharing: false
 </p>
 
 <p>
-  I'm a software engineer currently working on the Internal Tools team at a company called <a href='https://www.coinbase.com/' target='blank'>Coinbase</a> in San Francisco, CA, where we're harnessing blockchain technology to build a global, open financial system.
+  I'm a software engineer currently working on the Internal Tools team at <a href='https://www.coinbase.com/' target='blank'>Coinbase</a> in San Francisco, CA, where we're harnessing blockchain technology to build a global, open financial system.
 </p>
 
 <p>
-  Previously, I worked at a company called <a href='https://www.reflektive.com/' target='blank'>Reflektive</a>, which is driving forth a mission to improve employee performance management. I worked on Reflektive's Real-Time Feedback, Goals, and Reviews products using Ruby, Rails, React, and Backbone, with Postgres as a primary datastore and Heroku and AWS for hosting services.
+  Previously, I worked at <a href='https://www.reflektive.com/' target='blank'>Reflektive</a>, which is driving forth a mission to improve employee performance management. I worked on Reflektive's Real-Time Feedback, Goals, and Reviews products using Ruby, Rails, React, and Backbone, with Postgres as a primary datastore and Heroku and AWS for hosting services.
 </p>
 
 <p>
-  I started my engineering career at a startup called <a href='https://www.womply.com/' target='blank'>Womply</a>, where I worked on their Insights product using Ruby/Rails, AngularJS, MySQL, and AWS in order to provide small business merchants with data, metrics, and other analytics relevant to their business.
+  I started my engineering career at <a href='https://www.womply.com/' target='blank'>Womply</a>, where I worked on their Insights product using Ruby/Rails, AngularJS, MySQL, and AWS in order to provide small business merchants with data, metrics, and other analytics relevant to their business.
 </p>
 
 <p>
