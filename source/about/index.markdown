@@ -7,30 +7,26 @@ footer: false
 sharing: false
 ---
 
-{% img center /images/durmheller_fountain.jpg 300 durmheller fountain! %}
+{% img center /images/elephant.jpg 300 elephant! %}
 
 <p>
   Hi, I'm Julia Chou.
 </p>
 
 <p>
-  I'm a software engineer currently working on the Internal Tools team at <a href='https://www.coinbase.com/' target='blank'>Coinbase</a> in San Francisco, CA, where we're harnessing blockchain technology to build a global, open financial system.
+  I'm a software engineer currently working on the Internal Tools team at <a href='https://www.coinbase.com/' target='blank'>Coinbase</a> in San Francisco, CA, where we're harnessing blockchain technology and cryptocurrencies to build a global, open financial system.
 </p>
 
 <p>
-  Previously, I worked at <a href='https://www.reflektive.com/' target='blank'>Reflektive</a>, which is driving forth a mission to improve employee performance management. I worked on Reflektive's Real-Time Feedback, Goals, and Reviews products using Ruby, Rails, React, and Backbone, with Postgres as a primary datastore and Heroku and AWS for hosting services.
+  Previously, I worked at <a href='https://www.reflektive.com/' target='blank'>Reflektive</a> and <a href='https://www.womply.com/' target='blank'>Womply</a>.
 </p>
 
 <p>
-  I started my engineering career at <a href='https://www.womply.com/' target='blank'>Womply</a>, where I worked on their Insights product using Ruby/Rails, AngularJS, MySQL, and AWS in order to provide small business merchants with data, metrics, and other analytics relevant to their business.
+  I hold a Bachelor of Science in Computer Science from the University of North Carolina at Chapel Hill, so naturally, UNC basketball is near and dear to my heart. 🐏🏀
 </p>
 
 <p>
-  I hold a Bachelor of Science in Computer Science from the University of North Carolina at Chapel Hill. Naturally, UNC basketball is near and dear to my heart. 🐏🏀
-</p>
-
-<p>
-  Some of my hobbies and interests include personal finance and money management, fitness (in particular, weightlifting), nutrition, philosophy, reading, and writing. My personal mission is to continually challenge myself to be the best person that I can be, and I hope to spend the rest of my life pursuing that goal.
+  Some of my hobbies and interests include personal finance, fitness, nutrition, reading, and writing. Always looking for ways to be a better person!
 </p>
 
 <p>
