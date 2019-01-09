@@ -116,3 +116,9 @@ DEPENDENCIES
   sass-globbing (~> 1.0.0)
   sinatra (~> 1.4.2)
   stringex (~> 1.4.0)
+
+RUBY VERSION
+   ruby 2.3.3p222
+
+BUNDLED WITH
+   1.16.6
