@@ -10,78 +10,99 @@ description: "Personal takeaways from spending 10 days in complete silence at a 
 ---
 {% img center /images/tomales_bay.jpg 800 Tomales Bay! %}
 
-The latter half of 2018 saw me turn my attention towards focusing on personal development and self-improvement, and as part of these efforts, I began to explore ways to strengthen my emotional intelligence and self-awareness. I had been monitoring my physical fitness and nutrition for a few years, but I realized that I had neglected to pay corresponding attention to my mental and emotional health.
+---
 
-As I read more and more into these topics, I learned that a common pattern among many successful people is their practice of meditation, to which they give credit for drastically improving their quality of life and emotional stability.
-I had always thought of meditation as something one practices for spiritual or religious reasons, and I have never particularly identified myself as either of these things. Perhaps I had also retained a Western unfamiliarity with the practice that made the concept seem foreign to me despite the fact that it's something people have been doing for thousands of years. I was intrigued, however, by the notion that if adopted regularly, meditating can improve one's focus, help create emotional balance, and remove distractions. Seemed pragmatic enough.
+</br/>
+The latter half of 2018 saw me turn my attention towards focusing on personal development and self-improvement, and as part of these efforts, I began to explore ways to strengthen my emotional intelligence and self-awareness. I've paid a lot of attention to improving my physical fitness and nutrition for a while now, but I realized that one of my biggest shortcomings was failing to pay corresponding attention to my mental and emotional health. I wanted to be able to communicate better, understand others, and understand how to make more mindful, balanced, and deliberate decisions.
 
-I learned about a 10 day Vipassana meditation retreat taught by a man named S.N. Goenka in a book called Never Eat Alone, in which the author spoke of his time there as a truly transformative and transcendent experience that changed his whole worldview. He now retreats for 10 days of silent meditation on a yearly basis.
-I'm a fairly introspective and contemplative person, so spending 10 days sitting around, not talking to anyone, and discovering new ways to become a better person sounded like something that would be completely in my wheelhouse. Seemed like there was much to potentially gain and little to lose.
+I picked my way through some literature surrounding improving your social and emotional intelligence, and I noticed that a common pattern among many successful people is their practice of meditation, to which they give credit for drastically improving their quality of life and emotional stability.
 
-I found the website for the Vipassana course and learned they offered a session at a location about an hour and a half outside of San Francisco (where I'm currently based), so I went ahead and registered. The organization is run on a donation basis, providing courses for free to new students and only accepting contributions from those who have completed the full 10 days. They even helped coordinate a rideshare board, so I didn't have any financial or logistical concerns.
+I have never particularly identified myself as either being very spiritual or religious, and I had always thought of meditation as something one practices for those reasons. Perhaps I had retained a Western unfamiliarity with the practice that made the concept seem foreign to me, though it is something people have been practicing for thousands of years. However, reading through people's personal testimonials about how meditation can improve one's self-awareness and focus, help create emotional balance, reduce anxiety, and remove distractions opened my eyes to the fact that there are very pragmatic reasons outside of spirituality and religion to explore meditation.
 
-I was completely unsure of what to expect when I signed up for the course. Now, having completed it, I can say that I found the whole thing frustrating, meaningful, ridiculous, funny, and beneficial all at various times. Below are some observations I've taken away from my time there.
+As I was reading through a book called Never Eat Alone, the author spoke of his time at a 10 day Vipassana meditation retreat taught by a man named S.N. Goenka as a truly transformative and transcendent experience that changed his whole worldview. He now retreats for 10 days of silent meditation on a yearly basis.
+
+Intrigued, I found the website for that Vipassana course and learned they offered a session at a location about an hour and a half outside of San Francisco (where I'm currently based), so I decided to go ahead and register. The course took place from December 23rd to January 3rd, so I would be spending the bulk of my holiday time off there. The organization is run on a donation basis, providing courses for free to new students and only accepting contributions from those who have completed the full 10 days. They even helped coordinate a rideshare board, so I didn't have any financial or logistical concerns.
+
+I'm a fairly introspective and contemplative person already, so spending 10 days sitting around, not talking to anyone, and discovering new ways to improve myself sounded like something that would be completely in my wheelhouse. There was much to potentially gain and little to lose!
+
+As of this writing, I've had some time to calm down and process my thoughts from my experiences at this retreat. I'm still in a little bit of disbelief that I so nonchalantly signed up to meditate in silence all day for 10 straight days and actually made it through. Below are some observations I've taken away from my time there.
 
 
 ---
-
 <br/>
+DAY 0
 
-<b>DAY 0</b>
 
-Students were instructed to arrive the day before the first official day of meditation began for orientation. I discovered when I arrived that the course was being held in a rented space that doubled as a Catholic youth summer camp. The organizers did their best to create a neutral space by taping over signs and covering up any indication that this was anything but a place intended for quiet contemplation. I went through the female registration line and was assigned a top bunk in a 12-person cabin. I was also encouraged to turn in my cell phone for safekeeping during the course, but I opted to hold onto it and just keep it turned off in the bottom of my bag the whole time. Students weren't allowed even books to read or journals to write in.
+I arrived at the retreat on the afternoon of December 23rd, the day before the first official day of meditation began. I discovered that the site was actually a Catholic youth summer camp that the Vipassana center rented out in the winter to host this class. The organizers did their best to create a neutral space by taping over signs and covering up any indication that this was anything but a place intended for quiet contemplation. 
 
-I mingled with a few fellow students before we all began our silence. A good amount of people seemed to be from the Bay Area, though I met a few from states like Florida and New York. Some came with their partners or, in one case, with their family, which was interesting because the whole point of the retreat is to labor under a sense of isolation. A good number of people had already completed this course, but many, like myself, had little to no experience with meditation whatsoever and were just there to challenge themselves and learn what it was about. Most impressive of all to me was the fact that there was at least one (very) pregnant woman.
+I went through the women's registration line where I signed a liability waiver and was assigned a top bunk in a 12-person cabin. I was also encouraged to turn in my cell phone for safekeeping during the course, but I opted to hold onto it and just keep it turned off in the bottom of my bag throughout the course. Reading and writing materials were prohibited.
 
-Overall, there were about 240 students in total, segregated by gender.
+Students had the opportunity to mingle and get to know one another a little bit before Noble Silence officially began. The term is a little grandiose, but effectively it means that students must submit to the silence of body, speech, and mind, and no communication whatsoever, whether through speech, hand gestures, or eye contact, is permitted. Students were only allowed to converse with teachers or assistants if they had any questions or concerns about the practice or the technique.
 
-During orientation, the deep, croaking voice of S.N. Goenka (who passed away in 2013 but lives on through audio and video recordings in these courses) played through the speakers and instructed us to fully surrender yourself to the practice of Dhamma and Buddhism and to adopt several precepts throughout the next ten days. Five of the precepts forbade you from killing, stealing, lying, engaging in sexual misconduct, or taking any intoxicants. If you were a returning student, you had to adopt three additional precepts instructing you not to eat after noon, wear any sensory decorations such as jewelry, or sleep in high or luxurious beds.
+A large portion of the student population seemed to be from the Bay Area, with several outliers from states like Florida and New York. Paradoxically, it seemed to me, some students came with their partners or families to this silent meditation retreat to labor in isolation together. 
+
+There were numerous returning students, but many, like myself, had little to no experience with meditation whatsoever and were just there to challenge themselves, try new things, and learn what meditation was all about.
+
+Overall, there were about 240 students in total.
+
+During orientation, the deep, croaking voice of S.N. Goenka (who passed away in 2013 but lives on through audio and video recordings in these courses) played through the speakers and instructed us to fully surrender yourself to the practice of Dhamma and Buddhism and to adopt several precepts throughout the next 10 days. Five of the precepts forbade you from killing, stealing, lying, engaging in sexual misconduct, or taking any intoxicants. If you were a returning student, you had to adopt three additional precepts instructing you not to eat after noon, wear any sensory decorations such as jewelry, or sleep in high or luxurious beds.
 
 The vows seemed to just be a formality, as we were all in an environment that made it extremely difficult to disobey most of the precepts. I wondered idly, though, whether or not the top bunk in my 12-person cabin could be considered "high" or "luxurious."
 
-Noble Silence officially began at 8:00 pm. I found the term a little grandiose, but effectively it meant the silence of body, speech, and mind, and no communication whatsoever, whether through speech, hand gestures, or eye contact, was permitted between the students. Students were only allowed to converse with teachers or assistants if they had any questions or concerns about the practice or the technique.
+At 8:00 pm, Noble Silence was officially underway.
 
-<b>DAYS 1–2</b>
+DAYS 1–2
 
 {% img center /images/meditation_timetable.png 500 Meditation Timetable %}
 
-Each day started at around 4:00 am and ended at around 9:30 pm. Students spent the majority of the day meditating, with only a few hours set aside for eating and resting. At the end of each day, we would sit and watch a discourse video in which Goenka would explain meditation techniques, answer some frequently asked questions, and share little Zen koans. Then, he would introduce a new progression in our meditation technique to practice the following day.
+Each day at  4:00 am, volunteers went around to each cabin clanging a gong to awaken its residents. They would perform this duty before each meditation session, the last of which ended at approximately 9:30 pm. Students had only a few hours set aside for eating and resting. Each evening, we would sit and watch a discourse video in which Goenka would explain meditation techniques, answer some frequently asked questions, and share little Zen koans. Then, he would introduce a new progression in our meditation technique for us to practice the following day.
 
-We started out learning Anapana meditation, which is observing your respiration, paying attention to the way your breath rushing through your nostrils and across your upper lip.
+All students sat in the same meditation hall, and men and women were seated in separate halves of the room. Each student had his or her own designated blue meditation mat and cushion, though extra cushions, blankets, and meditation benches were available if so desired. I amused myself watching some students construct veritable pillow fortresses on top of their meditation mats. We were to spend hours upon these mats, eyes closed, face forward, and back straight, for the next 10 days.
 
-One of my biggest frustrations already was being physically confined to a small space and instructed to not partake in any physical activity beyond simple stretching. At the same time, it was nice to be able to give free rein to my thoughts and my thoughts alone.
+We began by learning anapana meditation, which is the practice of simply observing your respiration. As you observe your respiration, you train your mind and sharpen your focus in order to concentrate fully on the way your breath feels as it rushes through your nostrils and across your upper lip. As you did this, you were supposed to keep any distracting thoughts at bay.
+
+I duly sat, focusing on my breath, trying not to think and trying not to think about not thinking.
+
+I quickly discovered that I'm not nearly as patient a person as I thought I was. I became frustrated within the first few days by being physically confined to a small campground and instructed to not partake in any physical activity beyond simple stretching. Course boundaries were clearly demarcated by yellow caution tape and signs, and students were not to cross these lines. 
 
 I'm accustomed to living alone in a studio, so it was quite an adjustment for me to share a cabin with 11 other people. It was alarmingly easy to dehumanize people and think of them as nothing but mindless, thoughtless automatons when you can't look at them and you don't even know their names or the sound of their voices. I gave people nicknames based on the names of colleges or tech companies emblazoned on their sweats. When I couldn't empathize with them much at all, it became all the easier for their loud footsteps, snores, coughing, and sneezing to drive me insane.
 
 During the meditation sessions, part of me thought it was a little morbid that we were all listening to recordings of a man who died years ago. But in a way, it's a beautiful thing that his legacy lives on through these courses and still impacts so many people.
 
-<b>DAY 3</b>
+DAY 3
 
-My frustration and irritation grew as I began to berate myself for running off into the woods to sit around and think about myself as if I had no real problems to deal with or no better way to spend my time. I could have been lifting weights, taking online courses, or reading. Instead, I was trapped within the tiny confines of this children's summer camp without a book, a journal, or a phone.
 
-I often found myself practicing the art of sleeping while sitting up rather than that of meditation.
+As I adjusted to the schedule and became accustomed to the daily routine, my frustration and irritation grew. I began to berate myself for running off into the woods to sit around and think about myself as if I had no real problems to deal with or no better way to spend my time. I could have been lifting weights, taking online courses, or working my way through my reading list. Instead, I was trapped within the tiny confines of this children's summer camp without a book, a journal, or a phone. At the same time, however, it was nice to be able to give free rein to my thoughts and my thoughts alone.
 
-It vaguely crossed my mind how odd it was that I was spending Christmas and New Year's with a large group of strangers in total silence. I wondered what was going on in the outside world, what kind of celebrations people were getting up to, what new political scandals had occurred, and how financial markets were performing. (Not well at all, for that last one).
+I must not have been alone in my frustrations, as one person in my cabin gave up and left early. Then there were eleven.
 
-I might have been crazy, but I thought I caught the occasional whiff of weed around the cabins and the dining hall, which was somehow both surprising and unsurprising.
+It vaguely crossed my mind how odd it was that I was spending Christmas and New Year's with a large group of strangers in total silence. I wondered what was going on in the outside world, what kind of celebrations people were getting up to, what new political scandals had occurred, and how financial markets were performing. (As it turned out, the government was shut down and financial markets were experiencing a serious case of the doldrums).
 
-There were moments of peace and serenity. The scenery was calm, the air was clear, the sun was bright, and the days were beautiful. At night, the stars were just gorgeous, shining with such clarity and brilliance that you would never witness in the city. 
+Throughout the day, I often found myself practicing the art of sleeping while sitting up rather than that of meditation.
+
+I thought I caught the occasional whiff of weed around the cabins and the dining hall, which was somehow both surprising and unsurprising.
+
+There were moments of peace and serenity. The scenery was calm, the air was clear, the sun was bright, and the days were beautiful. Once or twice, I caught the sight of several deer bounding through the camp. At night, the stars were just gorgeous, shining with such clarity and brilliance that you would never witness in the city. 
 
 Outside of these moments of gratitude, I quickly started to look forward to getting back to my regular life. I started a nightly ritual of mentally incrementing how much progress I had made through the course.
 
 10% done… 20% done… 30% done…
 
-<b>DAY 4</b>
+DAY 4
 
-On the fourth day, we were introduced to the practice of Vipassana meditation. The purpose behind spending the first few days concentrating on your breath was to sharpen your ability to concentrate on the sensations in a small area of the body, and in Vipassana, you then extend that focus to other areas of the body, starting from the top of the head and traveling down to the toes. The purpose of this was to become aware of the sensations in your body, whether that be itching, aching, numbness, coldness, or the feeling of your heart pulsing. Then, you observe them as they are, divesting any sort of positive or negative interpretation of them. As you focus on them, you notice that these sensations are constantly shifting, which illustrates one of the takeaways of the whole meditation experience: everything (whether that be emotions, sensations, life situations) is fluid, impermanent, and in constant flux. If you can recognize that, you can allow yourself to be fully aware of the present moment but also prevent yourself from becoming too fixated on it because you know it's not going to last.
+
+On the fourth day, we were introduced to the practice of vipassana meditation. The purpose behind spending the first few days concentrating on your breath was to sharpen your ability to concentrate on the sensations in a small area of the body, and in vipassana, you then extend that focus to other areas of the body, starting from the top of the head and traveling down to the toes. 
+
+In the process of doing so, you become aware of the sensations in your body, whether that be itching, aching, numbness, coldness, or the feeling of your heart pulsing. Then, you observe them as they are, divesting any sort of positive or negative interpretation of them. As you focus on them, you notice that these sensations are constantly shifting, illustrating one of the principles of the whole meditation experience: everything (whether that be emotions, sensations, life situations) is fluid, impermanent, and in constant flux. If you can recognize that, you can allow yourself to be fully aware of the present moment but also prevent yourself from becoming too fixated on it because you know it's not going to last.
 
 With this practice of self-observation, you come to realize that nothing is inherently good or bad. Your own biases and perceptions are the only things telling you that they are.
 
-(Take my explanations of these concepts with a hefty pinch of salt, as I'm sure this meditation boot camp, though intensive, has left many gaps in my understanding).
+As Goenka says…
 
-As much as the organizers insisted that theirs was a secular practice that didn't involve any rites or rituals, Goenka would end each session singing/chanting blessings for peace and goodwill, which did feel slightly ritualistic.
+One must learn to be aware of all the different sensations without reacting to them, accepting their changing, impersonal nature. By doing so, one comes out of the habit of blind reaction, one liberates oneself from misery.
 
-<b>DAY 5</b>
+DAY 5
+
 
 Some days, students were called up in groups to meet with their teachers, where the teachers would provide pointers and make sure you were practicing the technique properly.
 
@@ -101,13 +122,14 @@ It would have been much easier if I were allowed to acknowledge the existence of
 
 Once, however, one of my cabin-mates asked me in a whisper whether or not I had a pair of shower shoes, and my heart nearly burst with happiness at this moment of human connection.
 
-<b>DAY 6</b>
+DAY 6
+
 
 Little moments of joy prevailed. Even though the organizers and teachers did their best to maintain an air of solemnity in the meditation hall, and I had difficulty keeping my composure on many occasions. 
 
 People were nodding off all over the place. Once, the girl next to me fell asleep, slipped off her meditation bench, and nearly face-planted into the girl in front of her.
 
-Furthermore, it turned out that however diligently Noble Silence was observed, the meditation hall was anything but silent. In fact, it was difficult not to become irritated by all the distracting sounds. One guy kept burping every ten minutes or so and managed to keep that up for days. Multiple people caught colds, so coughing and sneezing abounded. I had a most uncompassionate fear of being infected by someone around me.
+As it turned out, no matter how diligently Noble Silence was observed, the meditation hall was anything but silent. In fact, it was difficult not to become irritated by all the distracting sounds. One guy kept burping every 10 minutes or so and managed to keep that up for several days. Multiple people caught colds, and their coughing and sneezing became a fixture during meditation sessions. I had a most uncompassionate fear of being infected by someone around me.
 
 The managers overseeing the women were strict about showing proper respect in the hall by not lying down, stretching excessively, or pointing your feet towards the teachers and would come to chastise you if they saw you doing any of the above. Meanwhile, I would occasionally glance over to the men's half of the hall to see some of them sprawled out and actually snoring on their meditation mats.
 
@@ -115,75 +137,83 @@ Once, I saw a man blowing a kiss towards the direction of the women's side of th
 
 "How sweet," I thought. "But also, how dare he break the rules!"
 
-On another occasion, one of the men rushed out of the hall to the bathroom in order to throw up violently, and the whole hall of 240+ people pretended nothing was amiss and just carried on with their meditations.
+On another occasion, one of the men rushed out of the hall to the bathroom in order to throw up violently, and the whole hall of 240 people pretended nothing was amiss and just carried on with their meditations.
 
 We were warned that the practice of meditation may bring forth a lot of deep-rooted negative emotions, and this may ostensibly have been a physical manifestation of the eradication of the complexes nestled in the deepest levels of his consciousness. Alternatively, it is also possible that he just ate a bad piece of fruit.
 
-<b>DAY 7</b>
+DAY 7
 
-Unfortunately, on this day I was forced to break my silence when I asked one of the managers if they had any tampons to spare.
 
 I felt I had reached a tipping point. I was about three-quarters of the way through the course, and I tapped an inner reserve of patience and discipline. The cadence of each day was familiar to me now, and I felt I could calmly pass through the rest of my time here.
 
 Watching Goenka speak in his discourse videos was like watching a kindly old grandpa reading you little parables and teaching you how to build character. At this point, I was really buying into his messages of compassion, peace, patience, tolerance, and forgiveness. I mean, who wouldn't? There is so much beauty in the human spirit, so much love in the soul! It was completely worth coming to this retreat in order to experience these uplifting moments of clarity and connection.
 
-<b>DAY 8</b>
+DAY 8
+
 
 …Only a few more days left of this stupid shit.
 
-<b>DAY 9</b>
+DAY 9
 
-The last few days weren't the smooth sailing I thought they would be. It seemed that the more fixated I was on my liberation, the slower time flowed. I looked forward to Goenka's discourses, as they were the only source of entertainment throughout the entire stay.
 
-After one particular discourse, I sat deep in thought, pondering a parable regarding how one should maintain awareness of Nature's inherent impermanence and thinking of all the times in my life when I became overly attached to a set of circumstances only to become devastated when they were inevitably altered. However, my musings were abruptly interrupted when a girl sitting near me farted. 
+The more fixated I became on my liberation, the slower the time flowed. I looked forward to Goenka's discourses, as they were the only source of any stimulation throughout the entire stay.
 
-Are you kidding me with this? All right, now things couldn't change fast enough.
+I was sitting deep in thought after one particular discourse one evening, pondering a parable Goenka had just told. In this story, a man receives a simple silver ring with a few words etched onto it: This will also change. The man wears the ring and goes throughout life, growing crops through high seasons and low seasons, the ring serving as a constant reminder that both bountiful harvests and droughts come and go. 
+I sat pondering Nature's inherent impermanence and thinking of all the times in my life when I became overly attached to a set of circumstances only to become devastated when they were inevitably altered when my musings were abruptly interrupted by the horrible fart of a girl sitting near me. 
 
-Despite the managers' attempts to maintain order and respect in the meditation hall, there were, sadly, very many farts. Noble Farts, no doubt.
+I guess this also illustrates change.
 
-The vegetarian menus they planned frequently featured beans very prominently. They definitely knew what they were doing.
+Despite the managers' attempts to maintain order and respect, the atmosphere in the meditation hall was unfortunately punctuated by frequent Noble Farts.
 
-Around this time, I also realized that I had gained the ability to tell how much time had passed during meditation hours based on the degree of numbness in my butt.
+I have a suspicious nature, and the vegetarian menus they planned frequently featured beans quite prominently, so I think they definitely knew what they were doing.
 
-<b>DAY 10</b>
+It was around this time that I also realized that I had gained the ability to tell how much time had passed during meditation hours based on the degree of numbness in my butt.
 
-At around 10:00 am on this day, Noble Silence was broken, and students were allowed to engage in Noble Speech.
+DAY 10
 
-They arranged this in order to ease the transition back into regular society, but talking in the meditation hall and physical contact were still prohibited.
 
-Goenka had one last lesson to impart before the course ended, and that was to practice sending metta to others around you after each meditation session. This was a way of sending good wishes, love, and happiness to others. After spending so much time in introspection and establishing your own sense of emotional balance, you were then to reflect that back upon those around you.
+10:00 am  -  Noble Silence ended. 
+
+Noble Speech was now permitted.
+
+They arranged for Noble Silence to end a day before students left the retreat in order to provide a buffer to ease their transition back into regular society. Talking in the meditation hall and physical contact were still prohibited.
 
 A huge amount of relief washed over me when I was finally able to witness that these people I had been living in silence with for the past week and a half are actually thinking, feeling, and sensing human beings who are really funny and very kind.
 
 This speaks more to my own preconceived notions and biases, but I was wondering how many people were proponents of the healing powers of spiritual energy and mystical auras. In fact, I did overhear some mention of Reiki and crystals, but most of the people I talked to were not quite that free-thinking. 
 
-We discussed the practicalities of adopting the precepts into our ordinary lives (what constitutes sexual misconduct, anyway? Is it improper to have sexual desires? We eventually settled on a broad definition of misconduct as any action that isn't consensual). We learned each other's occupations as accountants, engineers, contractors, and project managers. We shared life stories, traded Instagram handles, speculated about the lives of our teachers outside of these meditation retreats, and joked about the little absurdities we all noticed during our time of silence.
+We discussed the practicalities of adopting the precepts into our ordinary lives (what constitutes sexual misconduct, anyway? Is it improper to have sexual desires?). We learned each other's occupations as accountants, engineers, contractors, and project managers. We shared life stories, traded Instagram handles, speculated about the lives of our teachers outside of these meditation retreats, and joked about the little absurdities we had noticed during our time of silence but couldn't share.
 
-As it turned out, the four teachers who taught this session were a pair of married couples. The two women were a school teacher and principal in the education system in the Bay Area. I was only slightly disappointed to learn that they weren't some higher beings who annually descended from their higher plane of existence in order to teach this course. I believe you're only approached by organizers to teach the course after you've gone through several iterations both as a student and as a volunteer.
+As it turned out, the four teachers who taught this session were a pair of married couples. The two women were a school teacher and principal in the education system in the Bay Area. I didn't get the chance to find out what the men's occupations were.
 
-Time began to fly by once they allowed us to speak.
+I was only slightly disappointed to learn that they weren't some celestial beings who annually descended from their higher plane of existence in order to teach this course.
 
-<b>DAY 11</b>
+DAY 11
 
-The organizers set up information booths in the dining hall so students could pick up literature on how to maintain this practice now that they'd finished this course. The way they set up these displays with plastic tables and corrugated cardboard tri-fold boards reminded me of my elementary school science fairs.
 
-I picked up a booklet about how to incorporate meditation into your life as a daily habit and a brochure titled "The Art of Living: Vipassana Meditation."
+Goenka had one last lesson yet to impart before the course officially ended, and that was to practice sending metta, or a sense of loving-kindness, to others after each meditation session. After spending so much time in introspection and building your self-awareness and establishing your own sense of emotional balance, you then reflect that back upon those around you.
+
+After the final meditation session of the course, the organizers set up information booths in the dining hall so students could pick up literature on how to maintain this practice now that they'd finished this course. The way they set up these displays, complete with plastic tables and corrugated cardboard tri-fold boards, reminded me of science fairs at my old elementary school.
+
+I picked up a booklet about how to incorporate meditation into your life as a daily habit and a brochure titled The Art of Living: Vipassana Meditation.
 
 In their closing notes, we were all encouraged to join the Vipassana Facebook group and volunteer to serve in future iterations of the course before finally being released to go our own ways.
 
 
 ---
-<br/>
+</br/>
 
 Overall Takeaways
 
 
 This was a positive experience and I'm glad I did this; however, I wouldn't opt to repeat this particular course. I think dedicating 10+ hours a day to meditation is excessive and an inefficient use of my time. 
 
-That's not to say I don't believe the technique is incredibly beneficial, however. I do believe that making a daily habit of simply being calm for a little bit will do wonders for reducing stress and anxiety, and I have noticed an increase in my ability to focus on tasks a little more and to identify and eliminate distractions. I'm not entirely sure if this is the result of being contained in an environment of total deprivation of any external stimuli for ten days, so I plan to continue meditating to see if this holds up. I suppose I'm still waiting on time to tell if this whole experience will work much of a change in me.
+That's not to say I don't believe the technique is incredibly beneficial, however. I do believe that making a daily habit of simply being calm for a little bit will do wonders for reducing stress and anxiety. 
 
-Goenka recommended that students meditate two hours each day: one hour in the morning and one hour at night. However, I'll aim for thirty minutes a day for now.
+I found that reintroducing myself to all the sights, smells, and sounds in San Francisco was a little bit jarring. It wasn't until then that I truly realized how many distractions there are in my day-to-day life and how they were constantly fragmenting my attention. As a result of being able to identify these distractions, I am better positioned to eliminate or ignore them and redirect my attention toward tasks that I want to complete. I used my phone's "Digital Wellbeing" feature to limit the time I spend on my phone each day and blocked off two hours a day for more productive tasks like reading or writing. I hope that this increased focus is something I can maintain through the practice of meditation.
+
+Goenka recommended that students meditate two hours each day: one hour in the morning and one hour at night; however, I think I'll aim for thirty minutes a day for now.
 
 Everybody gets a little something different out of going through even the same experiences, so I'm not sure to whom I would recommend this course. You might emerge feeling like you've just undergone some spiritual metamorphosis, as many have done, or you might come out thinking it's all utter bullshit. However, if any of this sounds intriguing to you in any way, you can check out their website for yourself and explore further.
 
-As for me, I found my time here immersive and valuable, and I plan to continue reading up on Buddhism and other meditation practices on my own. I'm looking forward to seeing where this path leads me.
+As for me, I found my time here immersive and valuable, and I plan to continue reading up on Buddhism and other belief systems on my own. I'm looking forward to seeing where this path leads me.
