@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Engineering | Julia Chou]]></title>
   <link href="http://jpchou.com/blog/categories/engineering/atom.xml" rel="self"/>
   <link href="http://jpchou.com/"/>
-  <updated>2019-01-10T21:31:48-08:00</updated>
+  <updated>2019-03-09T19:16:57-08:00</updated>
   <id>http://jpchou.com/</id>
   <author>
     <name><![CDATA[Julia Chou]]></name>
@@ -19,8 +19,12 @@
     <updated>2015-09-12T23:38:03-07:00</updated>
     <id>http://jpchou.com/blog/2015/09/12/rot13-in-ruby</id>
     <content type="html"><![CDATA[<p>Just for fun, I decided to try my hand at implementing a Rot13 program, which is a simple problem which takes
-a string as its input and encodes it by moving each letter 13 characters forward or backward.
-For example, since there are 26 letters in the alphabet, we can assign indices to each letter starting at <code>0</code> for <code>'a'</code>
+a string as its input and encodes it by moving each letter 13 characters forward or backward.</p>
+
+<!--more-->
+
+
+<p>For example, since there are 26 letters in the alphabet, we can assign indices to each letter starting at <code>0</code> for <code>'a'</code>
 and ending at <code>25</code> for <code>'z'</code>. The Rot13 program would switch (or rotate) the character <code>'a'</code> with <code>'n'</code> since it has the index <code>13</code>.</p>
 
 <p>Giving this program the string input <code>'apple'</code> would (hopefully) return <code>'nccyr'</code>.</p>

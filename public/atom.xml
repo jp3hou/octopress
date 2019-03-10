@@ -4,7 +4,7 @@
   <title><![CDATA[Julia Chou]]></title>
   <link href="http://jpchou.com/atom.xml" rel="self"/>
   <link href="http://jpchou.com/"/>
-  <updated>2019-01-10T21:31:48-08:00</updated>
+  <updated>2019-03-09T19:16:57-08:00</updated>
   <id>http://jpchou.com/</id>
   <author>
     <name><![CDATA[Julia Chou]]></name>
@@ -26,6 +26,9 @@
 
 <p></br/>
 The latter half of 2018 saw me turn my attention towards focusing on personal development and self-improvement, and as part of these efforts, I began to explore ways to strengthen my emotional intelligence and self-awareness. I&rsquo;ve paid a lot of attention to improving my physical fitness and nutrition for a while now, but I realized that one of my biggest shortcomings was failing to pay corresponding attention to my mental and emotional health. I wanted to be able to communicate better, understand others, and understand how to make more mindful, balanced, and deliberate decisions.</p>
+
+<!--more-->
+
 
 <p>I picked my way through some literature surrounding improving your social and emotional intelligence, and I noticed that a common pattern among many successful people is their practice of meditation, to which they give credit for drastically improving their quality of life and emotional stability.</p>
 
@@ -246,6 +249,9 @@ I sat pondering Nature&rsquo;s inherent impermanence and thinking of all the tim
 <p>These two of Thoreau&rsquo;s most famous quotes from Walden were the words that knocked me free from the clutches of an arrogant self-assuredness I hadn&rsquo;t known possessed me in my sophomore year of college. In its place, I felt the creeping numbness of a slow existential dread.
 For most people, college is a time of self-exploration and self-discovery, a chance to test the limits of your own capacity and establish the foundations of your career. As for myself, I took to heart that very last goal to the exclusion of all others. I was going to graduate with a degree in Computer Science, snag a lucrative job in Silicon Valley, work for a few decades, save up money, and finally retire to an idyllic life squirreled away in a cabin in the woods where I would write the rest of my days away.</p>
 
+<!--more-->
+
+
 <p>I was struggling at the time, pouring a lot of my energy into balancing three jobs alongside the study of a subject that did not come intuitively to me, to say the least.
 During my sophomore year, I decided to take a literature course with an amazing professor who introduced me to the works of Thoreau, resulting in a dramatic shift in my perspective. Suddenly, everything I was doing seemed like an endless and meaningless toil. I realized that this future I was so single-mindedly pursuing was only a vague specter and I had no idea if it was going to be what I wanted when I got it. What were the things that were going to be important to me when I woke up some 40 years down the road? When it came time for me to die, was I going to discover that I had never truly lived?</p>
 
@@ -287,6 +293,9 @@ To that end, I&rsquo;m setting tentative, longer-term goals for myself and takin
     <updated>2018-06-24T11:01:11-07:00</updated>
     <id>http://jpchou.com/blog/2018/06/24/sidekiq-ifying-emails-at-reflektive</id>
     <content type="html"><![CDATA[<p>At Reflektive, we offer the option of sending reminder emails after kicking off performance review cycles in order to notify participants of that cycle that they should fill out their reviews. We used <a href='https://github.com/collectiveidea/delayed_job' target='blank'>Delayed::Job</a>, an asynchronous priority queue system pioneered by the Shopify engineering team, to handle the delivery of those emails.</p>
+
+<!--more-->
+
 
 <p>However, we noticed that there was a huge bottleneck when it came to delivering emails to cycles with large numbers of participants. For instance, one company that had approximately 30,000 employees would clog up our worker queues for hours, preventing other companies from sending out their own emails while this large job was still being processed.</p>
 
@@ -514,8 +523,12 @@ The Sidekiq rake command allows you to configure the concurrency, weight, and qu
     <updated>2015-09-12T23:38:03-07:00</updated>
     <id>http://jpchou.com/blog/2015/09/12/rot13-in-ruby</id>
     <content type="html"><![CDATA[<p>Just for fun, I decided to try my hand at implementing a Rot13 program, which is a simple problem which takes
-a string as its input and encodes it by moving each letter 13 characters forward or backward.
-For example, since there are 26 letters in the alphabet, we can assign indices to each letter starting at <code>0</code> for <code>'a'</code>
+a string as its input and encodes it by moving each letter 13 characters forward or backward.</p>
+
+<!--more-->
+
+
+<p>For example, since there are 26 letters in the alphabet, we can assign indices to each letter starting at <code>0</code> for <code>'a'</code>
 and ending at <code>25</code> for <code>'z'</code>. The Rot13 program would switch (or rotate) the character <code>'a'</code> with <code>'n'</code> since it has the index <code>13</code>.</p>
 
 <p>Giving this program the string input <code>'apple'</code> would (hopefully) return <code>'nccyr'</code>.</p>

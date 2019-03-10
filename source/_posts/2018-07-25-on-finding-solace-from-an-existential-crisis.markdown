@@ -22,6 +22,8 @@ description: "Personal reflections on lessons learned from a recent confrontatio
 These two of Thoreau's most famous quotes from Walden were the words that knocked me free from the clutches of an arrogant self-assuredness I hadn't known possessed me in my sophomore year of college. In its place, I felt the creeping numbness of a slow existential dread.
 For most people, college is a time of self-exploration and self-discovery, a chance to test the limits of your own capacity and establish the foundations of your career. As for myself, I took to heart that very last goal to the exclusion of all others. I was going to graduate with a degree in Computer Science, snag a lucrative job in Silicon Valley, work for a few decades, save up money, and finally retire to an idyllic life squirreled away in a cabin in the woods where I would write the rest of my days away.
 
+<!--more-->
+
 I was struggling at the time, pouring a lot of my energy into balancing three jobs alongside the study of a subject that did not come intuitively to me, to say the least.
 During my sophomore year, I decided to take a literature course with an amazing professor who introduced me to the works of Thoreau, resulting in a dramatic shift in my perspective. Suddenly, everything I was doing seemed like an endless and meaningless toil. I realized that this future I was so single-mindedly pursuing was only a vague specter and I had no idea if it was going to be what I wanted when I got it. What were the things that were going to be important to me when I woke up some 40 years down the road? When it came time for me to die, was I going to discover that I had never truly lived?
 

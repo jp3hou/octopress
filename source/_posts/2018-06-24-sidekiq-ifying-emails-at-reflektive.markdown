@@ -9,7 +9,7 @@ description: "Optimizing email delivery and monitoring at Reflektive with Sideki
 ---
 
 At Reflektive, we offer the option of sending reminder emails after kicking off performance review cycles in order to notify participants of that cycle that they should fill out their reviews. We used <a href='https://github.com/collectiveidea/delayed_job' target='blank'>Delayed::Job</a>, an asynchronous priority queue system pioneered by the Shopify engineering team, to handle the delivery of those emails.
-
+<!--more-->
 However, we noticed that there was a huge bottleneck when it came to delivering emails to cycles with large numbers of participants. For instance, one company that had approximately 30,000 employees would clog up our worker queues for hours, preventing other companies from sending out their own emails while this large job was still being processed.
 
 One solution might have been to just throw more hardware at it, to spin up more DJ workers to hammer through the job queues. However, we decided to explore the option of using <a href='https://github.com/mperham/sidekiq' target='blank'>Sidekiq</a> as an alternative asynchronous job processing system.

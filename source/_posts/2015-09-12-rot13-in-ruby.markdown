@@ -10,6 +10,7 @@ description: "Rot13 (Caesar Cipher) in Ruby"
 
 Just for fun, I decided to try my hand at implementing a Rot13 program, which is a simple problem which takes
 a string as its input and encodes it by moving each letter 13 characters forward or backward.
+<!--more-->
 For example, since there are 26 letters in the alphabet, we can assign indices to each letter starting at `0` for `'a'`
 and ending at `25` for `'z'`. The Rot13 program would switch (or rotate) the character `'a'` with `'n'` since it has the index `13`.
 
